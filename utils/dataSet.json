@@ -1,0 +1,51 @@
+{
+  "noResultsMsg": "Sorry, nothing to see here. Try searching for something less specific or remove applied filters.",
+  "searchTitle": "playwright",
+  "emptyContentPaylaod": {
+    "data": {
+      "contents": {
+        "data": [],
+        "__typename": "ConcordeContents",
+        "links": {
+          "__typename": "Links",
+          "prev": null,
+          "next": null
+        }
+      }
+    }
+  },
+
+  "sortType": {
+    "sortTypeLastPublished": "Last Published",
+    "sortTypeTitleAZ": "Title A-Z",
+    "sortTypeLastUpdated": "Last Updated"
+  },
+
+  "sectionFilter": {
+    "filterName": "ocd",
+    "filterType": "Section"
+  },
+
+  "subsectionFilter": {
+    "filterName": "Arts & Culture",
+    "filterType": "Subsection"
+  },
+
+  "collectionFilter": {
+    "filterName": "Movies",
+    "filterType": "Collection"
+  },
+  "status": {
+    "statusDraft": "Draft",
+    "statusScheduled": "Scheduled",
+    "statusPublished": "Published"
+  },
+
+  "source": {
+    "sourceMySite": "My Site",
+    "sourceSyndicated": "Syndicated",
+    "sourceLIFT": "LIFT"
+  },
+
+  "sponsoredContentFilter": "Sponsored Content"
+}
